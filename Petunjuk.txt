@@ -1,2 +1,3 @@
 Resolusi PT :
 - Menyimpan Semua source code yang pernah di kerjakan disini
+- Membuat Aplikasi Stok Barang
