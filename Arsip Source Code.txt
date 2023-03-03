@@ -1,6 +1,6 @@
 Daftar Source Code :
 1. App Effiling
-2. App Emonitoring
+2. App Emonitoring ( Aplikasi Monitoring )
 3. App Perizinan
 4. App Database Kepegawaian
 5. App Stok Data Barang
